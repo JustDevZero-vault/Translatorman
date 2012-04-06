@@ -239,7 +239,7 @@ QString tlman2html( const QString &filechosed) {
 
         QString temporalfile = "/tmp/"+ file_info.fileName() +".html";
 
-        system(QString("/home/mephiston/Proyectos/Snippets/man2html < " + file_info.absoluteFilePath() + ">" + temporalfile).toAscii());
+        system(QString("./Proyectos/Translatorman-build/core/man2html < " + file_info.absoluteFilePath() + ">" + temporalfile).toAscii());
 
         QFile tempfile(temporalfile);
         if (tempfile.open(QIODevice::ReadOnly))

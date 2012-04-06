@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file alias="close-button.png">images/png/close-button.png</file>
+        <file alias="document.svg">images/oxygen/actions/document.svg</file>
+        <file alias="document_export.svg">images/oxygen/actions/document_export.svg</file>
+        <file alias="document_import.svg">images/oxygen/actions/document_import.svg</file>
+        <file alias="document_open.svg">images/oxygen/actions/document_open.svg</file>
+        <file alias="document_print.svg">images/oxygen/actions/document_print.svg</file>
+        <file alias="document_properties.svg">images/oxygen/actions/document_properties.svg</file>
+        <file alias="document_save.svg">images/oxygen/actions/document_save.svg</file>
+        <file alias="edit_delete.svg">images/oxygen/actions/edit_delete.svg</file>
+        <file alias="edit_find.svg">images/oxygen/actions/edit_find.svg</file>
+        <file alias="view_refresh.svg">images/oxygen/actions/view_refresh.svg</file>
+    </qresource>
+    <qresource prefix="/Texts">
+        <file alias="license.txt">license.txt</file>
+        <file alias="gpl-3.html">gpl-3.html</file>
+    </qresource>
+</RCC>

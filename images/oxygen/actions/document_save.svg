@@ -1,0 +1,149 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon14, part of koffice: http://www.koffice.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px">
+  <defs>
+    <radialGradient id="defitem0" gradientUnits="userSpaceOnUse" cx="59.9836" cy="120.765" fx="59.9836" fy="120.765" r="55.3594" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="defitem1" gradientUnits="userSpaceOnUse" x1="21.25" y1="116.75" x2="10" y2="121" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem2" gradientUnits="userSpaceOnUse" x1="67.0298" y1="117.897" x2="67.0298" y2="7.957" >
+      <stop stop-color="#2d2a2a" offset="0" stop-opacity="1" />
+      <stop stop-color="#4b4949" offset="0.334975" stop-opacity="1" />
+      <stop stop-color="#5b5959" offset="0.667488" stop-opacity="1" />
+      <stop stop-color="#6b6969" offset="1" stop-opacity="1" />
+    </linearGradient>
+    <radialGradient id="defitem3" gradientUnits="userSpaceOnUse" cx="41.8405" cy="-5.895" fx="41.8405" fy="-5.895" r="173.68" >
+      <stop stop-color="#cfcdd8" offset="0" stop-opacity="1" />
+      <stop stop-color="#ebf0f9" offset="0.25" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="0.5" stop-opacity="1" />
+      <stop stop-color="#c6d4e2" offset="1" stop-opacity="1" />
+    </radialGradient>
+    <radialGradient id="defitem4" gradientUnits="userSpaceOnUse" cx="64.8018" cy="63.7813" fx="64.8018" fy="63.7813" r="38.8012" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="0.5" stop-opacity="0.698182" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="defitem5" gradientUnits="userSpaceOnUse" x1="69.9723" y1="34.9073" x2="70.0795" y2="63.5642" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem6" gradientUnits="userSpaceOnUse" x1="116.462" y1="-25.663" x2="116.462" y2="135.152" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem7" gradientUnits="userSpaceOnUse" x1="64" y1="52" x2="64" y2="124" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="defitem8" gradientUnits="userSpaceOnUse" cx="84" cy="95" fx="84" fy="95" r="32" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="defitem9" gradientUnits="userSpaceOnUse" x1="68" y1="119.93" x2="36" y2="83.5568" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="defitem10" gradientUnits="userSpaceOnUse" cx="68.912" cy="78.3499" fx="68.912" fy="78.3499" r="35.92" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="0.5" stop-opacity="0.698182" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="defitem11" gradientUnits="userSpaceOnUse" cx="103.63" cy="9.11" fx="103.63" fy="9.11" r="0.468" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="defitem12" gradientUnits="userSpaceOnUse" cx="24.4297" cy="9.11" fx="24.4297" fy="9.11" r="0.4687" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="defitem13" gradientUnits="userSpaceOnUse" x1="89.2084" y1="42.5362" x2="113.473" y2="106.998" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem14" gradientUnits="userSpaceOnUse" x1="87.6939" y1="100.563" x2="91.0518" y2="100.563" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem15" gradientUnits="userSpaceOnUse" x1="64" y1="120" x2="56" y2="96" >
+      <stop stop-color="#898989" offset="0" stop-opacity="1" />
+      <stop stop-color="#c6c6c6" offset="1" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="defitem16" gradientUnits="userSpaceOnUse" x1="80.0956" y1="77.9381" x2="89.9878" y2="115.667" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="defitem17" gradientUnits="userSpaceOnUse" cx="15.2456" cy="16.432" fx="15.2456" fy="16.432" r="3.0225" >
+      <stop stop-color="#797979" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0.490909" />
+    </radialGradient>
+    <linearGradient id="defitem18" gradientUnits="userSpaceOnUse" x1="15.2456" y1="3.863" x2="15.2456" y2="17.011" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="defitem19" gradientUnits="userSpaceOnUse" cx="15.2839" cy="18.081" fx="15.2839" fy="17.027" r="2.5889" >
+      <stop stop-color="#858385" offset="0" stop-opacity="1" />
+      <stop stop-color="#494949" offset="1" stop-opacity="1" />
+    </radialGradient>
+    <linearGradient id="defitem20" gradientUnits="userSpaceOnUse" x1="12.7765" y1="15.469" x2="12.7765" y2="18.494" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="defitem21" gradientUnits="userSpaceOnUse" x1="60.25" y1="121.958" x2="60.25" y2="118.414" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="defitem22" gradientUnits="userSpaceOnUse" cx="10.4144" cy="9.79" fx="10.4144" fy="9.79" r="2.75246" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="defitem23" gradientUnits="userSpaceOnUse" cx="118.019" cy="9.129" fx="118.019" fy="9.129" r="2.54191" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <g id="Layer">
+    <path fill="url(#defitem0)" stroke-width="0.100519" stroke-linecap="round" stroke-linejoin="round" d="M31.2479 123.695C30.8494 123.695 30.526 123.564 30.526 123.403L30.526 118.126C30.526 117.965 30.8494 117.835 31.2479 117.835L88.7193 117.835C89.1178 117.835 89.4413 117.965 89.4413 118.126L89.4413 123.403C89.4413 123.564 89.1178 123.695 88.7193 123.695L31.2479 123.695Z"  />
+    <path id="path3507" fill="url(#defitem1)" fill-opacity="0.75" d="M10.4968 121.312L25.2634 121.312L30.2634 121.937L59.6503 121.937L86.6503 121.312L118.973 119.312L115.973 115.812L9.02738 112.19L10.4968 121.312Z"  fill-rule="evenodd" />
+    <path id="rect2169" fill="url(#defitem2)" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M11.361 8C9.5523 8 8 9.625 8.00094 11.327L8.00094 110.259L18.641 120.913L116.64 120.913C119.594 120.913 120 120.566 120 117.586L120 11.327C120 9.514 118.442 8 116.64 8L11.361 8Z"  />
+    <path fill="url(#defitem3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M27.2345 62C26.5531 62 26 61.4469 26 60.7655L26 9.235C26 8.553 26.5531 8 27.2345 8L100.765 8C101.447 8 102 8.553 102 9.235L102 60.7655C102 61.4469 101.447 62 100.765 62L27.2345 62Z"  />
+    <path fill="#cfdbe6" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M27.0754 61.9218C26.5651 61.9218 26.1509 61.5075 26.1509 60.9972L26.1509 8.925C26.1509 8.414 26.5651 8 27.0754 8L29.0754 8C29.5858 8 30 8.414 30 8.925L30 60.9972C30 61.5075 29.5858 61.9218 29.0754 61.9218L27.0754 61.9218Z"  />
+    <path fill="#cfdbe6" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M98.8972 61.9673C98.402 61.9673 98 61.5531 98 61.0427L98 9.425C98 8.914 98.402 8.5 98.8972 8.5L100.897 8.5C101.393 8.5 101.794 8.914 101.794 9.425L101.794 61.0427C101.794 61.5531 101.393 61.9673 100.897 61.9673L98.8972 61.9673Z"  />
+    <path fill="url(#defitem4)" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" d="M26.0189 64.1458L26.0189 63.4169L101.111 63.4169L101.111 64.1458L26.0189 64.1458Z"  />
+    <path id="path3209" fill="#000000" fill-opacity="0.358407" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M12.375 8.57C9.42155 8.57 8 8.934 8 11.914L8 12.695C8 9.716 9.42155 9.383 12.375 9.383L115.625 9.383C118.578 9.383 120 9.716 120 12.695L120 11.914C120 8.934 118.578 8.57 115.625 8.57L12.375 8.57Z"  />
+    <path id="path3381" fill="#ffffff" fill-opacity="0.469027" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M11.375 8.6C9.31859 8.708 8 9.306 8 11.913L8 12.507C8 9.527 9.42155 9.194 12.375 9.194L115.625 9.194C118.578 9.194 120 9.527 120 12.507L120 11.913C120 8.933 118.578 8.6 115.625 8.6L12.375 8.6C12.0058 8.6 11.6688 8.585 11.375 8.6Z"  />
+    <path id="path3423" fill="url(#defitem5)" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M104.309 8.626C104.208 8.626 104.121 8.663 104.028 8.689C103.923 8.717 103.836 8.757 103.746 8.814C103.661 8.867 103.596 8.927 103.528 9.001C103.499 9.032 103.459 9.061 103.434 9.095C103.4 9.135 103.369 9.175 103.34 9.22C103.247 9.389 103.184 9.577 103.184 9.782L103.184 61.1573L103.59 61.1573L103.59 9.782C103.59 9.571 103.679 9.392 103.778 9.22L115.684 9.22C118.637 9.22 120.059 9.553 120.059 12.532L120.059 11.939C120.059 9.331 118.743 8.762 116.684 8.657L104.559 8.657C104.613 8.649 104.659 8.626 104.715 8.626L104.309 8.626ZM11.0902 8.657C9.46505 8.811 8.12828 9.432 8.09025 11.532C8.21131 9.472 9.84973 9.22 12.434 9.22L24.434 9.22C24.5406 9.397 24.5902 9.593 24.5902 9.814L24.5902 61.1885L24.9965 61.1885L24.9965 9.814C24.9965 9.593 24.9468 9.397 24.8402 9.22C24.795 9.144 24.7444 9.064 24.684 9.001C24.5903 8.895 24.4653 8.81 24.3402 8.751C24.2239 8.696 24.1058 8.657 23.9652 8.657L23.4652 8.657L11.0902 8.657ZM8.09025 11.532C8.08781 11.667 8.059 11.791 8.059 11.939L8.059 12.532C8.059 12.16 8.07295 11.827 8.09025 11.532Z"  />
+    <path id="path3455" fill="url(#defitem6)" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M115.431 8.6C118.385 8.6 119.206 8.933 119.206 11.912L119.206 115.194C119.206 118.173 116.385 120.506 113.431 120.506L114.15 120.506C117.103 120.506 119.494 118.173 119.494 115.194L119.494 11.912C119.494 8.933 119.103 8.6 116.15 8.6L115.431 8.6Z"  />
+    <path id="path3476" fill="#b1c6d8" stroke-width="0.5" d="M32 16.123L32 20.076L96 20.076L96 16.123L32 16.123Z"  fill-rule="evenodd" />
+    <path id="path3478" fill="#b1c6d8" stroke-width="0.5" d="M32.0317 32.2286L32.0317 36.119L96.0317 36.119L96.0317 32.2286L32.0317 32.2286Z"  fill-rule="evenodd" />
+    <path id="path3480" fill="#b1c6d8" stroke-width="0.5" d="M32 48.2021L32 52.2021L96 52.2021L96 48.2021L32 48.2021Z"  fill-rule="evenodd" />
+    <path id="rect3492" fill="#ffffff" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M101.423 8L101.423 61.8063C101.606 61.7046 101.717 61.5553 101.829 61.4062L101.829 8L101.423 8Z"  />
+    <path id="path3497" fill="#ffffff" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M26.109 8L26.1226 61.3006C26.2257 61.5005 26.3751 61.6387 26.5289 61.7709L26.5152 8L26.109 8Z"  />
+    <path id="rect3626" fill="url(#defitem7)" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M33.1726 78.0874C31.6896 78.0874 30.5163 79.292 30.5163 80.7749L30.5163 122.806C30.5163 124.289 31.6896 125.462 33.1726 125.462L33.3288 125.462C32.921 125.016 32.6413 124.431 32.6413 123.775L32.6413 83.8062C32.6413 82.4149 33.7533 81.2749 35.1413 81.2749L100.735 81.2749C102.123 81.2749 103.235 82.4149 103.235 83.8062L103.235 123.775C103.235 124.431 102.987 125.016 102.579 125.462L102.704 125.462C104.187 125.462 105.391 124.289 105.391 122.806L105.391 80.7749C105.391 79.292 104.187 78.0874 102.704 78.0874L33.1726 78.0874Z"  />
+    <path id="path3680" fill="#000000" fill-opacity="0.128319" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M34.5378 80.0078C33.1186 80.0078 31.9753 81.1511 31.9753 82.5703L32 119.717L104 119.717L103.975 82.5703C103.975 81.1511 102.832 80.0078 101.413 80.0078L34.5378 80.0078Z"  />
+    <path id="path3694" fill="url(#defitem8)" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M34.581 80.0708C33.1618 80.0708 32.0185 81.2141 32.0185 82.6333L32.0185 119.817L104 119.7L104 82.5167C104 81.0975 102.857 79.9542 101.438 79.9542L34.581 80.0708Z"  />
+    <path id="rect3226" fill="url(#defitem9)" stroke-width="0.100519" stroke-linecap="round" stroke-linejoin="round" d="M52.9375 83.5568C52.4179 83.5568 52 83.9791 52 84.504L52 107.805L40.9375 107.805C40.4179 107.805 40 108.228 40 108.752L40 114.941C40 115.466 40.4179 115.888 40.9375 115.888L52.9375 115.888L63.0625 115.888C63.5821 115.888 64 115.466 64 114.941L64 108.752L64 84.504C64 83.9791 63.5821 83.5568 63.0625 83.5568L52.9375 83.5568Z"  />
+    <path fill="url(#defitem10)" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" d="M33.0087 79.1L33.0087 77.6L102.525 77.6L102.525 79.1L33.0087 79.1Z"  />
+    <path id="path3086" fill="url(#defitem11)" d="M103.911 8.735L103.161 9.423L104.098 9.485L103.911 8.735Z"  fill-rule="evenodd" />
+    <path id="path3124" fill="url(#defitem12)" d="M24.1485 8.735L24.8985 9.423L23.961 9.485L24.1485 8.735Z"  fill-rule="evenodd" />
+    <path id="path3128" fill="url(#defitem13)" stroke="#ffffff" stroke-width="0.0993808" d="M111.406 97.575L111.406 104.294L110.202 104.294L109.184 104.294L113.473 111.825L117.763 104.294L116.745 104.294L115.541 104.294L115.541 97.575L113.473 97.575L111.406 97.575Z"  fill-rule="evenodd" />
+    <path fill="url(#defitem14)" stroke-width="0.100519" stroke-linecap="round" stroke-linejoin="round" d="M87.6939 119.685L87.6939 81.4409L91.0518 81.4409L91.0518 119.685L87.6939 119.685Z"  />
+    <path id="rect3196" fill="url(#defitem15)" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M34.542 80.3216C33.3647 80.3216 32.417 81.2792 32.417 82.4686L32.5938 120.536L88 120.536L88 82.3255C88 81.136 87.1773 80.3216 86 80.3216L34.542 80.3216ZM40.9375 88.3539L55.0625 88.3539C55.5821 88.3539 56 88.7762 56 89.3011L56 110.9C56 111.424 55.5821 111.847 55.0625 111.847L40.9375 111.847C40.4179 111.847 40 111.424 40 110.9L40 89.3011C40 88.7762 40.4179 88.3539 40.9375 88.3539Z"  />
+    <path id="path3292" fill="#ffffff" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M34.6875 80.3814C33.5102 80.3814 32.5625 81.339 32.5625 82.5284L32.5625 82.7179C32.5625 81.5284 33.5102 80.5709 34.6875 80.5709L85.8438 80.5709C86.8738 80.5709 87.74 81.3273 87.9375 82.3074C87.8286 81.2227 86.9471 80.3814 85.8438 80.3814L34.6875 80.3814ZM39.9688 111.102L39.9688 111.292C39.9688 111.817 40.3867 112.239 40.9062 112.239L55.0312 112.239C55.5508 112.239 55.9687 111.817 55.9688 111.292L55.9688 111.102C55.9687 111.627 55.5508 112.05 55.0312 112.05L40.9062 112.05C40.3867 112.05 39.9688 111.627 39.9688 111.102Z"  />
+    <path id="path3301" fill="#ffffff" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M34.6875 80.2795C33.5102 80.2795 32.5625 81.643 32.5625 82.8324L32.5625 83.0219C32.5625 81.8324 33.5102 81.4749 34.6875 81.4749L85.8438 81.4749C86.8738 81.4749 87.54 81.6313 87.7375 82.6114C87.6286 81.5267 86.9471 80.381 85.8438 80.381L34.6875 80.2795ZM39.9688 111.406L39.9688 111.596C39.9688 112.121 40.3867 112.543 40.9062 112.543L55.0312 112.543C55.5508 112.543 55.9687 112.121 55.9688 111.596L55.9688 111.406C55.9687 111.931 55.5508 112.354 55.0312 112.354L40.9062 112.354C40.3867 112.354 39.9688 111.931 39.9688 111.406Z"  />
+    <path fill="url(#defitem16)" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round" d="M87.8663 120.187L87.8663 81.9235L87.6134 81.9235L87.6134 120.187L87.8663 120.187Z"  />
+    <g id="g28105">
+      <path fill="none" stroke="#000000" stroke-width="0.760907" stroke-linecap="round" stroke-linejoin="round" d="M13.0387 21.029C12.5885 21.029 12.2232 20.658 12.2232 20.202L12.2232 12.662C12.2232 12.205 12.5885 11.835 13.0387 11.835L17.4526 11.835C17.9027 11.835 18.2681 12.205 18.2681 12.662L18.2681 20.202C18.2681 20.658 17.9027 21.029 17.4526 21.029L13.0387 21.029Z"  />
+      <path fill="url(#defitem17)" stroke="url(#defitem18)" stroke-width="0.760907" stroke-linecap="round" stroke-linejoin="round" d="M13.0387 21.029C12.5885 21.029 12.2232 20.658 12.2232 20.202L12.2232 12.662C12.2232 12.205 12.5885 11.835 13.0387 11.835L17.4526 11.835C17.9027 11.835 18.2681 12.205 18.2681 12.662L18.2681 20.202C18.2681 20.658 17.9027 21.029 17.4526 21.029L13.0387 21.029Z"  />
+      <path fill="url(#defitem19)" stroke="url(#defitem20)" stroke-width="0.363773" stroke-linecap="round" stroke-linejoin="round" d="M13.4494 20.523C13.1777 20.523 12.9571 20.299 12.9571 20.024L12.9571 16.965C12.9571 16.689 13.1777 16.466 13.4494 16.466L17.1999 16.466C17.4716 16.466 17.6921 16.689 17.6921 16.965L17.6921 20.024C17.6921 20.299 17.4716 20.523 17.1999 20.523L13.4494 20.523Z"  />
+    </g>
+    <path fill="url(#defitem21)" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" d="M32.5 120.94L32.5 118.414L88 118.414L88 120.94L32.5 120.94Z"  />
+    <path id="path3391" fill="#343434" fill-opacity="0.828402" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M11.375 8C9.31859 8.108 8 9.706 8 12.313L8 12.907C8 9.927 9.42155 8.594 12.375 8.594C48.8958 8.02 88.6657 8.322 116.625 8.594C118.521 8.594 120 9.723 120 11.907L120 11.313C120 9.77 118.451 8 116.625 8L12.375 8C12.0058 8 11.6688 7.985 11.375 8Z"  />
+    <path id="path3081" fill="url(#defitem22)" stroke-width="1.38914" d="M11.719 9.413L11.5656 10.948L9.53962 10.948C9.67688 10.292 9.81527 9.308 11.719 9.413Z"  fill-rule="evenodd" />
+    <path id="path3031" fill="url(#defitem23)" stroke-width="1.28284" d="M116.814 8.78L116.956 10.198L118.827 10.198C118.7 9.592 118.572 8.683 116.814 8.78Z"  fill-rule="evenodd" />
+  </g>
+</svg>

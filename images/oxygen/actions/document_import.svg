@@ -1,0 +1,279 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon14, part of koffice: http://www.koffice.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px">
+  <defs>
+    <radialGradient id="defitem0" gradientUnits="userSpaceOnUse" cx="64.0002" cy="122.802" fx="64.0002" fy="122.802" r="61.5368" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="defitem1" gradientUnits="userSpaceOnUse" x1="64.0002" y1="128" x2="64.0002" y2="122.802" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem2" gradientUnits="userSpaceOnUse" x1="64.0002" y1="117.18" x2="64.0002" y2="122.802" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="defitem3" gradientUnits="userSpaceOnUse" cx="16.3608" cy="0.327" fx="16.3608" fy="0.327" r="128.035" >
+      <stop stop-color="#f2f2f2" offset="0" stop-opacity="1" />
+      <stop stop-color="#c3c3c3" offset="1" stop-opacity="1" />
+    </radialGradient>
+    <radialGradient id="defitem4" gradientUnits="userSpaceOnUse" cx="111.361" cy="100.827" fx="111.361" fy="100.827" r="103.251" >
+      <stop stop-color="#525456" offset="0" stop-opacity="1" />
+      <stop stop-color="#89898c" offset="0.113661" stop-opacity="1" />
+      <stop stop-color="#ebebeb" offset="0.202967" stop-opacity="1" />
+      <stop stop-color="#f9f9f9" offset="0.2363" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="0.2722" stop-opacity="1" />
+      <stop stop-color="#f9f9f9" offset="0.5313" stop-opacity="1" />
+      <stop stop-color="#ebebeb" offset="0.8449" stop-opacity="1" />
+      <stop stop-color="#e1e2e2" offset="1" stop-opacity="1" />
+    </radialGradient>
+    <linearGradient id="defitem5" gradientUnits="userSpaceOnUse" x1="106.305" y1="96.8989" x2="98.8188" y2="89.4132" >
+      <stop stop-color="#878985" offset="0" stop-opacity="1" />
+      <stop stop-color="#8c8e89" offset="0.0072" stop-opacity="1" />
+      <stop stop-color="#aaaca8" offset="0.0673" stop-opacity="1" />
+      <stop stop-color="#c3c6c3" offset="0.1347" stop-opacity="1" />
+      <stop stop-color="#dbdbda" offset="0.265258" stop-opacity="1" />
+      <stop stop-color="#ebebeb" offset="0.376461" stop-opacity="1" />
+      <stop stop-color="#f6f6f6" offset="0.487403" stop-opacity="1" />
+      <stop stop-color="#fdfdfd" offset="0.632409" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="defitem6" gradientUnits="userSpaceOnUse" x1="0.442396" y1="50.8756" x2="68.6948" y2="51.0812" >
+      <stop stop-color="#646464" offset="0" stop-opacity="1" />
+      <stop stop-color="#7e7e7e" offset="0.001" stop-opacity="1" />
+      <stop stop-color="#999999" offset="0.9" stop-opacity="0.587629" />
+      <stop stop-color="#cccccc" offset="0.95" stop-opacity="0.618557" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem7" gradientUnits="userSpaceOnUse" x1="-7.3563" y1="51.0814" x2="73.003" y2="51.0812" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="0.109728" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <g id="Layer">
+    <g id="g139">
+      <g id="sombra">
+        <path id="path1563" fill="url(#defitem0)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M128 122.802C128 125.667 99.3468 127.99 64.0002 127.99C28.6539 127.99 0.000171 125.667 0.000171 122.802C0.000171 119.937 28.6539 117.614 64.0002 117.614C99.3468 117.614 128 119.937 128 122.802L128 122.802Z"  />
+        <path id="path3251" fill="url(#defitem1)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M128 122.802L0.00017 122.802C0.00017 125.673 28.6539 128 64.0002 128C99.3468 128 128 125.673 128 122.802L128 122.802Z"  />
+        <path id="path2455" fill="url(#defitem2)" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M128 122.802L0.00017 122.802C0.00017 119.697 28.6539 117.18 64.0002 117.18C99.3468 117.18 128 119.697 128 122.802L128 122.802Z"  />
+        <path id="path2440" fill="#ffffff" fill-opacity="0.5" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" d="M64 117.184C29.7583 117.184 1.77662 119.526 0.0625 122.496C0.000125 122.59 0 122.714 0 122.809C0 122.988 0.094004 123.134 0.3125 123.309C0.425013 123.402 0.546842 123.499 0.71875 123.59C1.85178 124.191 4.27039 124.763 7.71875 125.278C9.68924 125.572 11.9852 125.833 14.5938 126.09C18.5066 126.474 23.1115 126.81 28.2188 127.09C33.326 127.37 38.9567 127.594 44.9688 127.746C50.9808 127.898 57.3726 127.996 64 127.996C70.6275 127.996 77.0192 127.898 83.0313 127.746C89.0433 127.594 94.6741 127.37 99.7813 127.09C104.888 126.81 109.462 126.474 113.375 126.09C115.984 125.833 118.311 125.572 120.281 125.278C123.73 124.763 126.117 124.191 127.25 123.59C127.422 123.499 127.544 123.402 127.656 123.309C127.766 123.222 127.851 123.147 127.906 123.059C127.962 122.97 128 122.898 128 122.809C128 122.714 127.969 122.59 127.906 122.496C126.192 119.526 98.242 117.184 64 117.184Z"  />
+      </g>
+    </g>
+    <g id="g8783">
+      <path id="path6210" fill="#f6f6f6" fill-opacity="0.75" stroke="#000000" stroke-opacity="0.05" stroke-width="9.98122" stroke-linejoin="round" d="M31.4453 7.068L31.4453 109.999C31.4453 111.032 32.2837 111.87 33.3168 111.87L88.6864 111.87C89.1823 111.87 89.6586 111.673 90.0095 111.322L120.728 80.6039C121.079 80.253 121.276 79.7767 121.276 79.2808L121.276 7.068L31.4453 7.068Z"  />
+      <path id="path6212" fill="none" stroke="#000000" stroke-opacity="0.1" stroke-width="7.48591" stroke-linejoin="round" d="M31.4453 7.068L31.4453 109.999C31.4453 111.032 32.2837 111.87 33.3168 111.87L88.6864 111.87C89.1823 111.87 89.6586 111.673 90.0095 111.322L120.728 80.6039C121.079 80.253 121.276 79.7767 121.276 79.2808L121.276 7.068L31.4453 7.068Z"  />
+      <path id="path6214" fill="none" stroke="#000000" stroke-opacity="0.15" stroke-width="4.99061" stroke-linejoin="round" d="M31.4453 7.068L31.4453 109.999C31.4453 111.032 32.2837 111.87 33.3168 111.87L88.6864 111.87C89.1823 111.87 89.6586 111.673 90.0095 111.322L120.728 80.6039C121.079 80.253 121.276 79.7767 121.276 79.2808L121.276 7.068L31.4453 7.068Z"  />
+      <path id="path6216" fill="none" stroke="#000000" stroke-opacity="0.2" stroke-width="2.4953" stroke-linejoin="round" d="M31.4453 7.068L31.4453 109.999C31.4453 111.032 32.2837 111.87 33.3168 111.87L88.6864 111.87C89.1823 111.87 89.6586 111.673 90.0095 111.322L120.728 80.6039C121.079 80.253 121.276 79.7767 121.276 79.2808L121.276 7.068L31.4453 7.068Z"  />
+      <path id="path6218" fill="url(#defitem3)" d="M31.4453 7.068L31.4453 109.999C31.4453 111.032 32.2837 111.87 33.3168 111.87L88.6864 111.87C89.1823 111.87 89.6586 111.673 90.0095 111.322L120.728 80.6039C121.079 80.253 121.276 79.7767 121.276 79.2808L121.276 7.068L31.4453 7.068Z"  />
+      <path id="path6220" fill="url(#defitem4)" d="M34.8432 9.767C34.3459 9.767 33.9406 10.173 33.9406 10.671L33.9406 108.267C33.9406 108.766 34.3459 109.171 34.8432 109.171L88.2493 109.171C88.4867 109.171 88.7195 109.075 88.8874 108.906L118.517 79.2406C118.686 79.0716 118.781 78.8394 118.781 78.6017L118.781 10.671C118.781 10.173 118.377 9.767 117.879 9.767L34.8432 9.767Z"  />
+      <path id="path6222" fill="url(#defitem5)" d="M90.0095 111.322C90.0095 111.322 101.158 102.045 106.305 96.8989C111.451 91.7523 120.728 80.6039 120.728 80.6039C120.728 80.6039 108.41 89.413 98.8186 89.413C98.8186 99.0043 90.0095 111.322 90.0095 111.322Z"  />
+    </g>
+    <g id="g5752">
+      <path id="path5754" fill="#000000" stroke-width="0.832339" d=""  />
+    </g>
+    <path id="path5756" fill="#000000" d=""  />
+    <g id="g5758">
+    </g>
+    <g id="g5760">
+    </g>
+    <g id="g5762">
+    </g>
+    <g id="g5764">
+      <path id="path5766" fill="#000000" stroke-width="0.832339" d=""  />
+    </g>
+    <path id="path5768" fill="#000000" d=""  />
+    <g id="g5770">
+    </g>
+    <g id="g5772">
+    </g>
+    <g id="g5774">
+    </g>
+    <path id="path5776" fill="#000000" d=""  />
+    <g id="g5778">
+      <path id="path5780" fill="#000000" stroke-width="0.832339" d=""  />
+    </g>
+    <path id="path5782" fill="#000000" d=""  />
+    <g id="g5784">
+    </g>
+    <g id="g5786">
+    </g>
+    <g id="g5788">
+    </g>
+    <path id="path5790" fill="#000000" d=""  />
+    <g id="g5792">
+    </g>
+    <g id="g5794">
+    </g>
+    <g id="g5796">
+    </g>
+    <g id="g5798">
+    </g>
+    <g id="g5800">
+    </g>
+    <g id="g5802">
+    </g>
+    <g id="g5804">
+      <path id="path5806" fill="#000000" stroke-width="0.832339" d=""  />
+    </g>
+    <path id="path5808" fill="#000000" d=""  />
+    <g id="g5810">
+    </g>
+    <g id="g5812">
+    </g>
+    <g id="g5814">
+    </g>
+    <path id="path5816" fill="#000000" d=""  />
+    <g id="g5818">
+      <path id="path5820" fill="#000000" stroke-width="0.832339" d=""  />
+    </g>
+    <path id="path5822" fill="#000000" d=""  />
+    <g id="g5824">
+    </g>
+    <g id="g5826">
+    </g>
+    <g id="g5828">
+    </g>
+    <path id="path5830" fill="#000000" d=""  />
+    <g id="g5832">
+    </g>
+    <g id="g5834">
+    </g>
+    <g id="g5836">
+    </g>
+    <g id="g5838">
+    </g>
+    <g id="g5840">
+    </g>
+    <g id="g5842">
+    </g>
+    <g id="g5678">
+      <path id="path5680" fill="#000000" stroke-width="1.10298" d=""  />
+    </g>
+    <path id="path5682" fill="#000000" d=""  />
+    <g id="g5684">
+    </g>
+    <g id="g5686">
+    </g>
+    <g id="g5688">
+    </g>
+    <g id="g11264">
+      <path id="path11266" fill="#000000" stroke-width="1.10298" d=""  />
+    </g>
+    <path id="path11268" fill="#000000" d=""  />
+    <g id="g11270">
+    </g>
+    <g id="g11272">
+    </g>
+    <g id="g11274">
+    </g>
+    <path id="path5696" fill="#000000" d=""  />
+    <g id="g5698">
+      <path id="path5700" fill="#000000" stroke-width="1.10298" d=""  />
+    </g>
+    <path id="path5702" fill="#000000" d=""  />
+    <g id="g5704">
+    </g>
+    <g id="g5706">
+    </g>
+    <g id="g5708">
+    </g>
+    <path id="path5710" fill="#000000" d=""  />
+    <g id="g5712">
+    </g>
+    <g id="g5714">
+    </g>
+    <g id="g5716">
+    </g>
+    <g id="g5718">
+    </g>
+    <g id="g5720">
+    </g>
+    <g id="g5722">
+    </g>
+    <g id="g12948">
+      <path id="path12950" fill="#000000" stroke-width="1.10298" d=""  />
+    </g>
+    <path id="path12952" fill="#000000" d=""  />
+    <g id="g12954">
+    </g>
+    <g id="g12956">
+    </g>
+    <g id="g12958">
+    </g>
+    <path id="path12983" fill="#000000" d=""  />
+    <g id="g12985">
+      <path id="path12987" fill="#000000" stroke-width="1.10298" d=""  />
+    </g>
+    <path id="path12989" fill="#000000" d=""  />
+    <g id="g12991">
+    </g>
+    <g id="g12993">
+    </g>
+    <g id="g12995">
+    </g>
+    <path id="path12997" fill="#000000" d=""  />
+    <g id="g13007">
+    </g>
+    <g id="g13009">
+    </g>
+    <g id="g13021">
+    </g>
+    <g id="g13023">
+    </g>
+    <g id="g13025">
+    </g>
+    <g id="g13027">
+    </g>
+    <g id="layer1">
+      <path id="path3945" fill="#000000" d=""  />
+    </g>
+    <path id="path3081" fill="#000000" d=""  />
+    <g id="layer2">
+    </g>
+    <g id="layer3">
+    </g>
+    <g id="layer4">
+    </g>
+    <path id="path2167" fill="#000000" d=""  />
+    <g id="g3036">
+      <path id="path4922" fill="#000000" d=""  />
+    </g>
+    <path id="path4924" fill="#000000" d=""  />
+    <g id="g4926">
+    </g>
+    <g id="g4928">
+    </g>
+    <g id="g4930">
+    </g>
+    <path id="path10095" fill="#000000" d=""  />
+    <path id="path2276" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M199.957 -19.365L199.957 -22.159L199.957 -19.365Z"  />
+    <path id="path2191" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M494.566 -81.555L494.566 -84.35L494.566 -81.555Z"  />
+    <path id="path2985" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M337.558 -151.191L337.558 -153.985L337.558 -151.191Z"  />
+    <path id="path3206" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M218.056 -237.821L218.056 -240.616L218.056 -237.821Z"  />
+    <g id="g2878">
+    </g>
+    <g id="g4938">
+    </g>
+    <path id="path3946" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M464.647 -172.066L464.647 -174.86L464.647 -172.066Z"  />
+    <path id="path1561" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M372.023 -98.172L372.023 -99.699L372.023 -98.172Z"  />
+    <path id="path292" fill="#ffffff" stroke-width="3.632" stroke-linecap="round" stroke-linejoin="round" d="M314.538 -154.772L314.538 -154.772L315.538 -154.772L315.538 -154.772L314.538 -154.772Z"  />
+    <path id="path294" fill="#ffffff" stroke-width="3.632" stroke-linecap="round" stroke-linejoin="round" d="M279.411 -182.299L279.411 -182.299L280.411 -182.299L280.411 -182.299L279.411 -182.299Z"  />
+    <path id="path2494" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M120.474 -255.516L120.474 -258.31L120.474 -255.516Z"  />
+    <g id="g4640">
+    </g>
+    <g id="g4646">
+    </g>
+    <g id="g4730">
+    </g>
+    <g id="g4748">
+    </g>
+    <path id="path4226" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M389.688 31.761L389.688 28.9663L389.688 31.761Z"  />
+    <g id="g2755">
+      <path id="path5065" fill="url(#defitem6)" stroke-width="7.99753" stroke-linejoin="round" d="M40.6598 13.104C39.7159 13.181 38.8301 13.591 38.1599 14.26L30.16 22.255C28.7134 23.701 28.5921 26.005 29.8788 27.595L40.6911 41.0872L5.00422 41.0872C2.79522 41.0874 1.00452 42.877 1.0043 45.0848L1.0043 57.0776C1.00452 59.2853 2.79522 61.0749 5.00422 61.0752L40.6911 61.0752L29.8788 74.5671C28.5921 76.1571 28.7134 78.4613 30.16 79.9076L38.1599 87.9028C38.9261 88.6691 39.9822 89.1073 41.0661 89.0896C42.15 89.0719 43.1689 88.6 43.9098 87.8091L75.9092 53.8295C77.3693 52.2878 77.3693 49.8745 75.9092 48.3328L43.9098 14.353C43.0741 13.463 41.8772 13.003 40.6598 13.104ZM41.0036 17.102L73.003 51.0812L41.0036 85.0608L33.0037 77.0656L49.0034 57.0776L5.00422 57.0776L5.00422 45.0848L49.0034 45.0848L33.0037 25.097L41.0036 17.102Z"  />
+      <path id="polygon3477_2_" fill="url(#defitem7)" stroke-width="0.999691" d="M33.0037 77.0656L41.0036 85.0608L73.003 51.0812L41.0036 17.102L33.0037 25.097L49.0034 45.0848L5.00422 45.0848L5.00422 57.0776L49.0034 57.0776L33.0037 77.0656Z"  />
+    </g>
+  </g>
+</svg>

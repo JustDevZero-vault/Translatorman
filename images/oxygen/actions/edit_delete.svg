@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon14, part of koffice: http://www.koffice.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px">
+  <defs>
+    <linearGradient id="defitem0" gradientUnits="userSpaceOnUse" x1="62.776" y1="81.9387" x2="62.776" y2="-9.745" >
+      <stop stop-color="#800000" offset="0" stop-opacity="1" />
+      <stop stop-color="#c40000" offset="1" stop-opacity="1" />
+    </linearGradient>
+    <radialGradient id="defitem1" gradientUnits="userSpaceOnUse" cx="63.6369" cy="89.7782" fx="63.6369" fy="89.7782" r="20.0479" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="defitem2" gradientUnits="userSpaceOnUse" cx="63.6369" cy="89.7782" fx="63.6369" fy="89.7782" r="20.0479" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="defitem3" gradientUnits="userSpaceOnUse" x1="105.966" y1="86.1965" x2="105.966" y2="96.9812" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem4" gradientUnits="userSpaceOnUse" x1="31.0937" y1="106.663" x2="41.7445" y2="106.663" >
+      <stop stop-color="#755b44" offset="0" stop-opacity="1" />
+      <stop stop-color="#755b44" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem5" gradientUnits="userSpaceOnUse" x1="633.948" y1="541.068" x2="631.912" y2="608.068" >
+      <stop stop-color="#755b44" offset="0" stop-opacity="1" />
+      <stop stop-color="#755b44" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem6" gradientUnits="userSpaceOnUse" x1="59.1352" y1="91.7303" x2="59.1352" y2="41.2551" >
+      <stop stop-color="#ff0000" offset="0" stop-opacity="1" />
+      <stop stop-color="#7e0000" offset="1" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="defitem7" gradientUnits="userSpaceOnUse" x1="91.9404" y1="107.314" x2="96.8236" y2="107.314" spreadMethod="reflect" >
+      <stop stop-color="#ff8787" offset="0" stop-opacity="1" />
+      <stop stop-color="#ff8787" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="defitem8" gradientUnits="userSpaceOnUse" cx="63.6369" cy="35.0065" fx="63.6369" fy="35.0065" r="11.5861" >
+      <stop stop-color="#000000" offset="0" stop-opacity="1" />
+      <stop stop-color="#000000" offset="1" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="defitem9" gradientUnits="userSpaceOnUse" x1="36.3886" y1="20.823" x2="40.8295" y2="20.823" spreadMethod="reflect" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#790000" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem10" gradientUnits="userSpaceOnUse" x1="91.9293" y1="20.985" x2="96.4885" y2="20.985" spreadMethod="reflect" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="1" />
+      <stop stop-color="#790000" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem11" gradientUnits="userSpaceOnUse" x1="64" y1="96.1265" x2="61.5003" y2="59.2057" >
+      <stop stop-color="#fff4e4" offset="0" stop-opacity="1" />
+      <stop stop-color="#ffebcf" offset="0.25" stop-opacity="1" />
+      <stop stop-color="#ffd390" offset="0.5" stop-opacity="1" />
+      <stop stop-color="#ffc369" offset="1" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="defitem12" gradientUnits="userSpaceOnUse" x1="99.8991" y1="81.1245" x2="76.7377" y2="28.0493" >
+      <stop stop-color="#f4f4f8" offset="0" stop-opacity="1" />
+      <stop stop-color="#fdfdfd" offset="1" stop-opacity="1" />
+    </linearGradient>
+    <linearGradient id="defitem13" gradientUnits="userSpaceOnUse" x1="51.5911" y1="26.721" x2="51.5911" y2="74.0914" >
+      <stop stop-color="#ff8787" offset="0" stop-opacity="1" />
+      <stop stop-color="#ff8787" offset="1" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="defitem14" gradientUnits="userSpaceOnUse" x1="61.7266" y1="76.7392" x2="60.8661" y2="26.598" >
+      <stop stop-color="#ffffff" offset="0" stop-opacity="0" />
+      <stop stop-color="#ffffff" offset="1" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+  <g id="Layer">
+    <path id="path8227" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M-259.402 132.756L-259.402 129.962L-259.402 132.756Z"  />
+    <path id="path2276" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M215.361 -31.058L215.361 -33.852L215.361 -31.058Z"  />
+    <path id="path1561" fill="#ffffff" fill-opacity="0.756881" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M249.736 22.336L249.736 20.809L249.736 22.336Z"  />
+    <path id="path3300" fill="url(#defitem0)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M36.384 16.014C35.3684 16.023 34.3961 16.427 33.6741 17.141L17.141 33.6741C15.6197 35.1961 15.6197 37.6632 17.141 39.1852L41.9254 64L17.141 88.8149C15.6197 90.3369 15.6197 92.8039 17.141 94.3259L33.6741 110.859C35.1961 112.38 37.6631 112.38 39.1852 110.859L64 86.0746L88.8149 110.859C90.3369 112.38 92.8039 112.38 94.3259 110.859L110.859 94.3259C112.38 92.8039 112.38 90.3369 110.859 88.8149L86.0746 64L110.859 39.1852C112.38 37.6632 112.38 35.1961 110.859 33.6741L94.3259 17.141C92.8039 15.62 90.3369 15.62 88.8149 17.141L64 41.9255L39.1852 17.141C38.4407 16.404 37.4311 15.998 36.384 16.014ZM66.7707 77.7928C66.0386 77.0528 65.0409 76.6365 64 76.6365C62.9591 76.6365 61.9614 77.0528 61.2293 77.7928L66.7707 77.7928Z"  />
+    <path id="path3507" fill="url(#defitem1)" fill-opacity="0.5" stroke="url(#defitem2)" stroke-width="0.481054" d="M38.3179 109.586L63.8091 83.4054L88.9559 109.241L63.8091 69.9708L38.3179 109.586Z"  fill-rule="evenodd" />
+    <path id="path5159" fill="url(#defitem3)" fill-opacity="0.5" stroke-width="1.81638" d="M101.49 91.7591L107.62 96.9812C110.7 95.0718 111.776 89.8335 108.188 86.1965L102.058 91.305L101.49 91.7591Z"  fill-rule="evenodd" />
+    <path id="path3485" fill="url(#defitem4)" fill-opacity="0.5" stroke-width="1.79382" d="M36.5873 102.243L41.7445 108.297C39.8588 111.339 34.6856 112.401 31.0937 108.858L36.1388 102.803L36.5873 102.243Z"  fill-rule="evenodd" />
+    <path id="path3493" fill="url(#defitem5)" fill-opacity="0.5" stroke-width="1.64482" d="M25.5928 91.7255L20.0415 96.4543C17.2523 94.7253 16.2781 89.9818 19.5275 86.6882L25.0788 91.3143L25.5928 91.7255Z"  fill-rule="evenodd" />
+    <path id="rect2323" fill="url(#defitem6)" stroke-width="0.699214" stroke-linecap="round" stroke-linejoin="round" d="M91.5581 23.437L64 50.9954L36.4419 23.437L23.4373 36.4419L50.9954 64L23.4373 91.5581L36.4419 104.563L64 77.0047L91.5581 104.563L104.563 91.5581L77.0047 64L104.563 36.4419L91.5581 23.437Z"  />
+    <path id="path3487" fill="url(#defitem7)" fill-opacity="0.5" stroke-width="1.64482" d="M92.0946 103.219L96.8235 108.771C95.0944 111.56 90.3509 112.534 87.0574 109.285L91.6834 103.733L92.0946 103.219Z"  fill-rule="evenodd" />
+    <path id="path3565" fill="url(#defitem8)" fill-opacity="0.5" stroke-width="0.974325" d="M38.3179 17.955L63.8091 44.1351L88.9559 18.299L63.8091 57.5697L38.3179 17.955Z"  fill-rule="evenodd" />
+    <path id="path3403" fill="url(#defitem9)" fill-opacity="0.5" stroke-width="1.49582" d="M36.5289 24.548L40.8293 19.499C39.2569 16.963 34.9431 16.077 31.9479 19.032L36.1549 24.08L36.5289 24.548Z"  fill-rule="evenodd" />
+    <path id="path3481" fill="url(#defitem10)" fill-opacity="0.5" stroke-width="1.53569" d="M92.0732 24.809L96.4883 19.626C94.874 17.022 90.4452 16.112 87.3702 19.146L91.6893 24.329L92.0732 24.809Z"  fill-rule="evenodd" />
+    <path id="path3328" fill="none" stroke="url(#defitem11)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M91.5581 23.437L64 50.9954L36.4419 23.437L23.4373 36.4419L50.9954 64L23.4373 91.5581L36.4419 104.563L64 77.0047L91.5581 104.563L104.563 91.5581L77.0047 64L104.563 36.4419L91.5581 23.437Z"  />
+    <path id="path3374" fill="url(#defitem12)" stroke-width="1.01535" stroke-linecap="round" stroke-linejoin="round" d="M36.4272 23.375L35.6964 24.105L23.4243 36.3775L36.1836 24.593L64.0013 50.9982L91.2939 24.593L102.226 35.5249C102.131 36.0195 102.002 36.4991 101.861 36.9864L90.0159 50.7801C79.3331 56.1059 64.4374 61.3592 48.4227 61.3759L48.6967 61.6499C49.1562 61.6553 49.6049 61.6804 50.0669 61.6804C66.1296 61.6804 77.1747 58.3725 87.8846 53.0332L103.627 37.2909C103.692 37.0663 103.752 36.8446 103.81 36.6211C103.877 36.3595 103.941 36.0961 103.992 35.8294L91.5374 23.375L90.8067 24.105L64.0013 50.9982L36.4272 23.375Z"  />
+    <path id="path5167" fill="url(#defitem13)" fill-opacity="0.5" stroke-width="1.01535" stroke-linecap="round" stroke-linejoin="round" d="M36.4449 23.442L23.442 36.4449L48.7144 61.7173C49.1739 61.7227 49.6226 61.7477 50.0846 61.7477C66.1473 61.7477 77.1924 58.4399 87.9023 53.1006L103.645 37.3583C103.785 36.871 103.914 36.3913 104.01 35.8968L91.5551 23.442L64 50.9971L36.4449 23.442Z"  />
+    <path id="path3399" fill="url(#defitem14)" stroke-width="1.01535" stroke-linecap="round" stroke-linejoin="round" d="M36.4272 23.375L35.6964 24.105L23.4243 36.3775L36.1836 24.593L64.0077 52.8364L64.0013 50.9982L64.011 52.8223L91.2939 24.593L102.226 35.5249C102.131 36.0195 102.002 36.4991 101.861 36.9864L90.0159 50.7801C79.3331 56.1059 64.4374 61.3592 48.4227 61.3759L48.6967 61.6499C49.1562 61.6553 49.6049 61.6804 50.0669 61.6804C66.1296 61.6804 77.1747 58.3725 87.8846 53.0332L103.627 37.2909C103.692 37.0663 103.752 36.8446 103.81 36.6211C103.877 36.3595 103.941 36.0961 103.992 35.8294L91.5374 23.375L90.8067 24.105L64.0013 50.9982L36.4272 23.375Z"  />
+  </g>
+</svg>

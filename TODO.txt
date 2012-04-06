@@ -1,0 +1,8 @@
+Lot of stuff...
+
+At now, it only opens manfiles, and show it in richtext (with man2html).
+
+Must do:
+html2man, for converting the new or modified manpage to manpage format (nroff).
+The preferences options, must work (now they are only a useless mockup).
+Others...

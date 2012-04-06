@@ -13,3 +13,9 @@ Fuzzy instructions for compiling right now (while the code is in young state):
 7. Run translatormanqt4 (./translatormanqt4)
 8. Try to open any manual page.
 
+
+
+
+Observations:
+
+While my objective is to do a crossplataform project ATM it will only work on GNU/Linux.

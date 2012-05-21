@@ -3,6 +3,8 @@ PROJECT(translatormanqt4)
 file(GLOB translatorman_SOURCES "*.c" "*.cpp")
 file(GLOB translatorman_HEADERS "*.hpp" "*.h")
 
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/libs" "${CMAKE_CURRENT_BINARY_DIR}/libs")
+
 #file(GLOB translatorman_NO_HEADERS tscompany.h tsinforme.h)
 #list(REMOVE_ITEM translatorman_HEADERS ${translatorman_NO_MOCS})
 
@@ -33,8 +35,8 @@ include_directories(
     ${QT_QTSCRIPT_INCLUDE_DIR}
     ${CMAKE_CURRENT_BINARY_DIR}
     ${CMAKE_CURRENT_SOURCE_DIR}
-    ${CMAKE_BINARY_DIR}/../../core/libs/
-    ${CMAKE_SOURCE_DIR}/../../core/libs/
+    ${CMAKE_BINARY_DIR}/../../qt4/libs/
+    ${CMAKE_SOURCE_DIR}/../../qt4/libs/
     #~ ${CMAKE_BINARY_DIR}/qt4/
     #~ ${CMAKE_SOURCE_DIR}/qt4/
     )
@@ -82,13 +84,13 @@ set_target_properties( libtranslatorman PROPERTIES
 #~ target_link_libraries(bulmafact libbulmafact bulmalib ${QT_LIBRARIES} ${PGSQL_LIBRARIES})
 #~ target_link_libraries(${PROJECT_NAME} libtranslatorman core ${QT_LIBRARIES})
 
-target_link_libraries(libtranslatorman core ${QT_LIBRARIES})
+target_link_libraries(libtranslatorman libs ${QT_LIBRARIES})
 
 add_executable(${PROJECT_NAME} ${translatormanEx} ${bulmafact_RCC_SRCS})
 
-target_link_libraries(${PROJECT_NAME} libtranslatorman core ${QT_LIBRARIES})
+target_link_libraries(${PROJECT_NAME} libtranslatorman libs ${QT_LIBRARIES})
 
-add_dependencies(libtranslatorman core)
+add_dependencies(libtranslatorman libs)
 add_dependencies(${PROJECT_NAME} libtranslatorman)
 
 install_targets(/bin ${PROJECT_NAME})

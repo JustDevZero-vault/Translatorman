@@ -70,8 +70,10 @@ IF(USE_PCH)
     ADD_PRECOMPILED_HEADER( translatorman_pch pch/stableheaders.hpp )
 ENDIF(USE_PCH)
 
-add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/libs" "${CMAKE_CURRENT_BINARY_DIR}/libs")
+#~ add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/libs" "${CMAKE_CURRENT_BINARY_DIR}/libs")
 set(man2html man2html.c)
+
+
 add_executable(man2html ${man2html})
 
 #~ SET(CPACK_PACKAGE_DESCRIPTION_SUMMARY "The Translatorman Project")
